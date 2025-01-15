@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Мои увлечения</title>		
+</head>
+<body background="мпро.gif">  
+  <h1 align="center"><font size="8" color="white">Мои увлечения</h1>
+<a href="
+</body>
+</html>
